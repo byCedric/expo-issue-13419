@@ -39,7 +39,8 @@
             "DEFAULT"
           ]
         }
-      ]
+      ],
+      "package": "com.bycedric.expoissue13419"
     },
     "web": {
       "favicon": "./assets/favicon.png"
